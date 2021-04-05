@@ -1,1 +1,1 @@
-# peta_boyolali_kml
+# boyolali_map.kml
